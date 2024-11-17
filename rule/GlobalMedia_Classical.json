@@ -1289,7 +1289,6 @@
     },
     {
       "domain_keyword": [
-        "-spotify-",
         "abematv.akamaized.net",
         "apiproxy-device-prod-nlb-",
         "avoddashs",
@@ -1307,7 +1306,7 @@
         "nowtv100",
         "olevod",
         "rthklive",
-        "spotify.com",
+        "spotify",
         "tiktokcdn",
         "ttvnw",
         "tvbanywhere",
